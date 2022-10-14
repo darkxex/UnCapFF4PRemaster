@@ -28,7 +28,6 @@ C:\Users\darkx\Documents\GitHub\UnCapFF3PRemaster\4KNativeEditor\obj\Debug\UnCap
 C:\Users\darkx\Documents\GitHub\UnCapFF3PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.CoreCompileInputs.cache
 C:\Users\darkx\Documents\GitHub\UnCapFF3PRemaster\4KNativeEditor\obj\Debug\UncapFF3PR.exe
 C:\Users\darkx\Documents\GitHub\UnCapFF3PRemaster\4KNativeEditor\obj\Debug\UncapFF3PR.pdb
-C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csprojAssemblyReference.cache
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Form1.resources
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\_4KNativeEditor.Properties.Resources.resources
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.GenerateResource.cache
@@ -38,3 +37,4 @@ C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\bin\Debug\Uncap
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\bin\Debug\UncapFF4PR.pdb
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\UncapFF4PR.exe
 C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\UncapFF4PR.pdb
+C:\Users\darkx\Documents\GitHub\UnCapFF4PRemaster\4KNativeEditor\obj\Debug\UnCapFF.csproj.AssemblyReference.cache
